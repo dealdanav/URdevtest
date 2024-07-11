@@ -1,0 +1,16 @@
+.contenido-landing > div {
+    margin: 15px auto;
+}
+
+.bg-ur-navbar {
+    background-color: #DA0921;
+}
+
+.bg-ur-navbar a {
+    color: #FFF;
+}
+
+.card-flag {
+    max-width: 100px;
+    width: 100%;
+}
